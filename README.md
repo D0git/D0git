@@ -12,7 +12,7 @@
 - 🌱 Software Engineer expanding into **Data Analytics**
 - 💡 I believe in understanding the **business context before touching the data**
 - 🌍 Based in Morocco · Open to **remote opportunities**
-- 📫 Reach me on [LinkedIn](https://linkedin.com/in/username)
+- 📫 Reach me on [LinkedIn](https://linkedin.com/in/doha-tiraou)
 
 ---
 
